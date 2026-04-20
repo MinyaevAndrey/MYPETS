@@ -1,6 +1,7 @@
 My PETs projects
 
 RF-messengers.ipynb - сlassification of online media traffic for messengers:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinyaevAndrey/MYPETS/blob/main/RF-messengers.ipynb)
   - amazon-chime
   - discord
   - google-meet
