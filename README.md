@@ -1,4 +1,5 @@
 My PETs projects
+
 RF-messengers.ipynb - сlassification of online media traffic for messengers:
   - amazon-chime
   - discord
@@ -18,5 +19,4 @@ RF-messengers.ipynb - сlassification of online media traffic for messengers:
   - wb
   - webex
   - whatsapp
-  - ya-telemost
-  - 
+  - ya-telemost  - 
