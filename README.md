@@ -1,0 +1,22 @@
+My PETs projects
+RF-messengers.ipynb - сlassification of online media traffic for messengers:
+  - amazon-chime
+  - discord
+  - google-meet
+  - iсq
+  - jitsi
+  - mts-link
+  - odnoklassniki
+  - sber-jazz
+  - signal-ows
+  - skype
+  - slack
+  - snapchat
+  - telegram
+  - viber
+  - vk-messenger
+  - wb
+  - webex
+  - whatsapp
+  - ya-telemost
+  - 
