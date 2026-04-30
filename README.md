@@ -24,3 +24,6 @@ RF-messengers.ipynb - сlassification of online media traffic for messengers:
 
 Titanic.ipynb 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinyaevAndrey/MYPETS/blob/main/Titanic.ipynb)
+
+Iris.ipynb 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinyaevAndrey/MYPETS/blob/main/Iris.ipynb)
